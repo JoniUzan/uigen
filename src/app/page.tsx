@@ -28,3 +28,6 @@ export default async function Home() {
   // For anonymous users, show the main content without a project
   return <MainContent user={user} />;
 }
+
+
+//this is a tests 
